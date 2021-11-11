@@ -1,6 +1,6 @@
 # Omega
 ## Overview
-This is an iOS application devloped using 
+This is an iOS application devloped in Xcode using SwiftUI. This application helps Industrial Hygienists as they go through the chemical sampling process. The user will be able to access a database of known chemicals, pick which one will be sampled, and be given directions on what to do. After entering information into the app, the app will keep record of samples finished and allow them to be shown in a table.
 ## Development Environment
 * Xcode
 * Swift

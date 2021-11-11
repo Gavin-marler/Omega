@@ -11,6 +11,10 @@
 		D9C085922735C697000002E6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C085912735C697000002E6 /* ContentView.swift */; };
 		D9C085942735C698000002E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9C085932735C698000002E6 /* Assets.xcassets */; };
 		D9C085972735C698000002E6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9C085962735C698000002E6 /* Preview Assets.xcassets */; };
+		D9C0859E2735CCEA000002E6 /* SamplesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C0859D2735CCEA000002E6 /* SamplesView.swift */; };
+		D9C085A02735CE79000002E6 /* NewSampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C0859F2735CE79000002E6 /* NewSampleView.swift */; };
+		D9C085A22735CF6A000002E6 /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C085A12735CF6A000002E6 /* Sample.swift */; };
+		D9C085A42736FEFD000002E6 /* chemicals.json in Resources */ = {isa = PBXBuildFile; fileRef = D9C085A32736FEFD000002E6 /* chemicals.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		D9C085912735C697000002E6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D9C085932735C698000002E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9C085962735C698000002E6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D9C0859D2735CCEA000002E6 /* SamplesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SamplesView.swift; sourceTree = "<group>"; };
+		D9C0859F2735CE79000002E6 /* NewSampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewSampleView.swift; sourceTree = "<group>"; };
+		D9C085A12735CF6A000002E6 /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
+		D9C085A32736FEFD000002E6 /* chemicals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chemicals.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +60,12 @@
 			isa = PBXGroup;
 			children = (
 				D9C0858F2735C697000002E6 /* OmegaApp.swift */,
+				D9C085A12735CF6A000002E6 /* Sample.swift */,
+				D9C0859F2735CE79000002E6 /* NewSampleView.swift */,
 				D9C085912735C697000002E6 /* ContentView.swift */,
+				D9C0859D2735CCEA000002E6 /* SamplesView.swift */,
 				D9C085932735C698000002E6 /* Assets.xcassets */,
+				D9C085A32736FEFD000002E6 /* chemicals.json */,
 				D9C085952735C698000002E6 /* Preview Content */,
 			);
 			path = Omega;
@@ -125,6 +137,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9C085A42736FEFD000002E6 /* chemicals.json in Resources */,
 				D9C085972735C698000002E6 /* Preview Assets.xcassets in Resources */,
 				D9C085942735C698000002E6 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +150,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9C085A22735CF6A000002E6 /* Sample.swift in Sources */,
 				D9C085922735C697000002E6 /* ContentView.swift in Sources */,
 				D9C085902735C697000002E6 /* OmegaApp.swift in Sources */,
+				D9C085A02735CE79000002E6 /* NewSampleView.swift in Sources */,
+				D9C0859E2735CCEA000002E6 /* SamplesView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +285,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Omega/Preview Content\"";
+				DEVELOPMENT_TEAM = V93MZYNHA9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -285,7 +302,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -297,6 +314,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Omega/Preview Content\"";
+				DEVELOPMENT_TEAM = V93MZYNHA9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -313,7 +331,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

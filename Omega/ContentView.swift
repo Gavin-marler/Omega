@@ -8,9 +8,29 @@
 import SwiftUI
 
 struct ContentView: View {
+    var samples = Samples()
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        TabView(){
+            SamplesView(filter: .new)
+                .tabItem {
+                    Image(systemName: "plus.circle")
+                    Text("New Sample")
+                }
+            
+            SamplesView(filter: .open)
+                .tabItem {
+                    Image(systemName: "pencil.circle")
+                    Text("Open Samples")
+                }
+            
+            SamplesView(filter: .complete)
+                .tabItem {
+                    Image(systemName: "book.circle")
+                    Text("Sample History")
+                }
+        }
+        .environmentObject(samples)
     }
 }
 

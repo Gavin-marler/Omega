@@ -8,7 +8,7 @@ This is an iOS application devloped in Xcode using SwiftUI. This application hel
 * JSON
 
 ## Execution
-
+After downloading these files and opening the directory in Xcode, you will be able to build and run this appication on a simulator. This application will not be published on the app store.
 
 ## Useful Websites
 

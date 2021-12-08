@@ -1,0 +1,2963 @@
+[
+    {
+        "id": 1,
+        "chemical": "4-Ketocyclophosphamide",
+        "method": "CYCLOPHOSPHAMIDE and IFOSFAMIDE in urine",
+        "methodNum": 8327,
+        "flowRate": "",
+        "volMinMax": "8 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8327.pdf"
+    },
+    {
+        "id": 2,
+        "chemical": "Acetone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 3,
+        "chemical": "Acetone",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 4,
+        "chemical": "Acetone",
+        "method": "ACETONE and METHYL ETHYL KETONE in Urine",
+        "methodNum": 8319,
+        "flowRate": "",
+        "volMinMax": "20 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8319.pdf"
+    },
+    {
+        "id": 5,
+        "chemical": "Acetone",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 6,
+        "chemical": "Actinolite",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 7,
+        "chemical": "Aldicarb",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 8,
+        "chemical": "Aluminum (Al)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 9,
+        "chemical": "Aluminum (Al)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 10,
+        "chemical": "Aluminum (Al)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 11,
+        "chemical": "p-Aminophenylarsonic acid",
+        "method": "ARSENIC, organo-",
+        "methodNum": 5022,
+        "flowRate": "1 - 3 L/min",
+        "volMinMax": "50 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf"
+    },
+    {
+        "id": 12,
+        "chemical": "Ammonia",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 13,
+        "chemical": "Ammonia",
+        "method": "AMMONIA by IC",
+        "methodNum": 6016,
+        "flowRate": "0.1 - 0.5 L/min",
+        "volMinMax": "0.1 - 96 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6016.pdf"
+    },
+    {
+        "id": 14,
+        "chemical": "Amosite",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 15,
+        "chemical": "Amphetamine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 16,
+        "chemical": "Amphetamine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 17,
+        "chemical": "Amphibole asbestos",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 18,
+        "chemical": "o-,p-Anisidine",
+        "method": "ANISIDINE",
+        "methodNum": 2514,
+        "flowRate": "0.5 – 1.0 L/min",
+        "volMinMax": "24 - 320 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2514.pdf"
+    },
+    {
+        "id": 19,
+        "chemical": "Anthophyllite",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 20,
+        "chemical": "Antimony (Sb)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 21,
+        "chemical": "Antimony (Sb)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 22,
+        "chemical": "p-Arsanilic acid",
+        "method": "ARSENIC, organo-",
+        "methodNum": 5022,
+        "flowRate": "1 - 3 L/min",
+        "volMinMax": "50 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf"
+    },
+    {
+        "id": 23,
+        "chemical": "Arsenic (As)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 24,
+        "chemical": "Arsenic (As)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 25,
+        "chemical": "Arsenic (As)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 26,
+        "chemical": "Arsine",
+        "method": "ARSINE",
+        "methodNum": 6001,
+        "flowRate": "0.01 - 0.2 L/min",
+        "volMinMax": "0.1 - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6001.pdf"
+    },
+    {
+        "id": 27,
+        "chemical": "Asbestos",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 28,
+        "chemical": "Asbestos",
+        "method": "ASBESTOS, CHRYSOTILE by XRD",
+        "methodNum": 9000,
+        "flowRate": "",
+        "volMinMax": "1 - 10 g",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9000.pdf"
+    },
+    {
+        "id": 29,
+        "chemical": "Azinphos methyl",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 30,
+        "chemical": "Barium (Ba)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 31,
+        "chemical": "Barium (Ba)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 32,
+        "chemical": "Barium (Ba)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 33,
+        "chemical": "Benomyl",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 34,
+        "chemical": "Benzene",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 35,
+        "chemical": "Benzene",
+        "method": "S-BENZYLMERCAPTURIC ACID and S-PHENYLMERCAPTURIC ACID in Urine",
+        "methodNum": 8326,
+        "flowRate": "",
+        "volMinMax": "8 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf"
+    },
+    {
+        "id": 36,
+        "chemical": "Benzene",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 37,
+        "chemical": "Benzidene",
+        "method": "BENZIDENE and 3,3′-DICHLOROBENZIDENE",
+        "methodNum": 5509,
+        "flowRate": "0.2 L/min",
+        "volMinMax": "20 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5509.pdf"
+    },
+    {
+        "id": 38,
+        "chemical": "Benzoyl peroxide",
+        "method": "BENZOYL PEROXIDE",
+        "methodNum": 5009,
+        "flowRate": "1 - 3 L/min",
+        "volMinMax": "40 - 400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5009.pdf"
+    },
+    {
+        "id": 39,
+        "chemical": "S-Benzylmercapturic acid",
+        "method": "S-BENZYLMERCAPTURIC ACID and S-PHENYLMERCAPTURIC ACID in Urine",
+        "methodNum": 8326,
+        "flowRate": "",
+        "volMinMax": "8 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf"
+    },
+    {
+        "id": 40,
+        "chemical": "Beryllium (Be)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 41,
+        "chemical": "Beryllium (Be)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 42,
+        "chemical": "Beryllium (Be)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 43,
+        "chemical": "Beryllium (Be)",
+        "method": "BERYLLIUM in Air by Fluorometry",
+        "methodNum": 7704,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "240 - 2000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7704.pdf"
+    },
+    {
+        "id": 44,
+        "chemical": "Beryllium (Be)",
+        "method": "BERYLLIUM in Surface Wipes by Fluorometry",
+        "methodNum": 9110,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9110.pdf"
+    },
+    {
+        "id": 45,
+        "chemical": "Boron (B)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 46,
+        "chemical": "Boron (B)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 47,
+        "chemical": "Bromomethane",
+        "method": "METHYL BROMIDE",
+        "methodNum": 2520,
+        "flowRate": "0.01 - 0.1 L/min",
+        "volMinMax": "1 - 5 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2520.pdf"
+    },
+    {
+        "id": 48,
+        "chemical": "1-Bromopropane",
+        "method": "3-BROMOPROPIONIC ACID in Urine",
+        "methodNum": 8324,
+        "flowRate": "",
+        "volMinMax": "15 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8324.pdf"
+    },
+    {
+        "id": 49,
+        "chemical": "3-Bromopropionic acid",
+        "method": "3-BROMOPROPIONIC ACID in Urine",
+        "methodNum": 8324,
+        "flowRate": "",
+        "volMinMax": "15 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8324.pdf"
+    },
+    {
+        "id": 50,
+        "chemical": "2,3-Butanedione",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 51,
+        "chemical": "2-Butanone",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 52,
+        "chemical": "2-Butanone Methylethyl ketone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 53,
+        "chemical": "Butyl methyl ketone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 54,
+        "chemical": "Butyltin Trichloride",
+        "method": "BUTYLTIN TRICHLORIDE in Urine",
+        "methodNum": 8320,
+        "flowRate": "",
+        "volMinMax": "15 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8320.pdf"
+    },
+    {
+        "id": 55,
+        "chemical": "Cadmium (Cd)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 56,
+        "chemical": "Cadmium (Cd)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 57,
+        "chemical": "Cadmium (Cd)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 58,
+        "chemical": "Caffeine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 59,
+        "chemical": "Caffeine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 60,
+        "chemical": "Calcium (Ca)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 61,
+        "chemical": "Calcium (Ca)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 62,
+        "chemical": "Calcium (Ca)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 63,
+        "chemical": "Calcium (Ca)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 64,
+        "chemical": "Captan",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 65,
+        "chemical": "Carbaryl",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 66,
+        "chemical": "Carbendazim",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 67,
+        "chemical": "Carbofuran",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 68,
+        "chemical": "Carbon black",
+        "method": "CARBON BLACK",
+        "methodNum": 5100,
+        "flowRate": "1 - 2 L/min",
+        "volMinMax": "75 - 1400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5100.pdf"
+    },
+    {
+        "id": 69,
+        "chemical": "Carbon disulfide",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 70,
+        "chemical": "Carbon monoxide",
+        "method": "CARBON MONOXIDE",
+        "methodNum": 6604,
+        "flowRate": "instrument dependent",
+        "volMinMax": "10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6604.pdf"
+    },
+    {
+        "id": 71,
+        "chemical": "Chloroacetic acid",
+        "method": "CHLOROACETIC ACID",
+        "methodNum": 2008,
+        "flowRate": "0.05 - 0.2 L/min",
+        "volMinMax": "1 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2008.pdf"
+    },
+    {
+        "id": 72,
+        "chemical": "4-Chloronitrobenzene",
+        "method": "NITROAROMATIC COMPOUNDS",
+        "methodNum": 2005,
+        "flowRate": "0.01 - 1 L/min",
+        "volMinMax": "10 - 150 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+    },
+    {
+        "id": 73,
+        "chemical": "p-Chlorophenol",
+        "method": "p-CHLOROPHENOL",
+        "methodNum": 2014,
+        "flowRate": "0.05 - 0.2 L/min",
+        "volMinMax": "1.5 - 40 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2014.pdf"
+    },
+    {
+        "id": 74,
+        "chemical": "Chlorpropham",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 75,
+        "chemical": "Chlorpyrifos",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 76,
+        "chemical": "Chromium (Cr)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 77,
+        "chemical": "Chromium (Cr)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 78,
+        "chemical": "Chromium (Cr)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 79,
+        "chemical": "Chromium (Cr), hexavalent",
+        "method": "CHROMIUM, HEXAVALENT",
+        "methodNum": 7600,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "34 - 400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7600.pdf"
+    },
+    {
+        "id": 80,
+        "chemical": "Chromium (Cr), hexavalent",
+        "method": "CHROMIUM, HEXAVALENT by Ion Chromatography",
+        "methodNum": 7605,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7605.pdf"
+    },
+    {
+        "id": 81,
+        "chemical": "Chromium (Cr), hexavalent",
+        "method": "CHROMIUM, HEXAVALENT by Field-Portable Spectrophotometry",
+        "methodNum": 7703,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "54 - 1200 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7703.pdf"
+    },
+    {
+        "id": 82,
+        "chemical": "Chromium trioxide",
+        "method": "CHROMIUM, HEXAVALENT",
+        "methodNum": 7600,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "34 - 400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7600.pdf"
+    },
+    {
+        "id": 83,
+        "chemical": "Chromium trioxide",
+        "method": "CHROMIUM, HEXAVALENT by Ion Chromatography",
+        "methodNum": 7605,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7605.pdf"
+    },
+    {
+        "id": 84,
+        "chemical": "Chromium trioxide",
+        "method": "CHROMIUM, HEXAVALENT by Field-Portable Spectrophotometry",
+        "methodNum": 7703,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "54 - 1200 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7703.pdf"
+    },
+    {
+        "id": 85,
+        "chemical": "Chrysotile",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 86,
+        "chemical": "Chrysotile",
+        "method": "ASBESTOS, CHRYSOTILE by XRD",
+        "methodNum": 9000,
+        "flowRate": "",
+        "volMinMax": "1 - 10 g",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9000.pdf"
+    },
+    {
+        "id": 87,
+        "chemical": "Cobalt (Co)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 88,
+        "chemical": "Cobalt (Co)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 89,
+        "chemical": "Cobalt (Co)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 90,
+        "chemical": "Copper (Cu)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 91,
+        "chemical": "Copper (Cu)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 92,
+        "chemical": "Copper (Cu)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 93,
+        "chemical": "Copper (Cu)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 94,
+        "chemical": "o-Cresol",
+        "method": "o-CRESOL in Urine",
+        "methodNum": 8321,
+        "flowRate": "",
+        "volMinMax": "50 - 100 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8321.pdf"
+    },
+    {
+        "id": 95,
+        "chemical": "Crocidolite",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 96,
+        "chemical": "Cyclohexanone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 97,
+        "chemical": "Cyclohexyl ketone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 98,
+        "chemical": "Cyclopentanone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 99,
+        "chemical": "Cyclophosphamide",
+        "method": "CYCLOPHOSPHAMIDE and IFOSFAMIDE in urine",
+        "methodNum": 8327,
+        "flowRate": "",
+        "volMinMax": "8 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8327.pdf"
+    },
+    {
+        "id": 100,
+        "chemical": "Diazinon",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 101,
+        "chemical": "Dibutyltin bis(isooctylmercaptoacetate)",
+        "method": "ORGANOTIN COMPOUNDS (as Sn)",
+        "methodNum": 5504,
+        "flowRate": "1 - 1.5 L/min",
+        "volMinMax": "50 - 500 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+    },
+    {
+        "id": 102,
+        "chemical": "3,3′-Dichlorobenzidene",
+        "method": "BENZIDENE and 3,3′-DICHLOROBENZIDENE",
+        "methodNum": 5509,
+        "flowRate": "0.2 L/min",
+        "volMinMax": "20 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5509.pdf"
+    },
+    {
+        "id": 103,
+        "chemical": "Dichloromethane",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 104,
+        "chemical": "Dicrotophos",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 105,
+        "chemical": "Diesel exhaust",
+        "method": "DIESEL PARTICULATE MATTER (as Elemental Carbon)",
+        "methodNum": 5040,
+        "flowRate": "2 - 4 L/min",
+        "volMinMax": "142 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5040.pdf"
+    },
+    {
+        "id": 106,
+        "chemical": "Diisobutyl ketone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 107,
+        "chemical": "2,6-Dimethyl-4-heptanone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 108,
+        "chemical": "Dimethylarsinic acid",
+        "method": "ARSENIC, organo-",
+        "methodNum": 5022,
+        "flowRate": "1 - 3 L/min",
+        "volMinMax": "50 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf"
+    },
+    {
+        "id": 109,
+        "chemical": "Dimethyltin dichloride",
+        "method": "METHYLTIN CHLORIDES",
+        "methodNum": 5526,
+        "flowRate": "0.25 - 1 L/min",
+        "volMinMax": "15 - 75 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5526.pdf"
+    },
+    {
+        "id": 110,
+        "chemical": "Disulfoton",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 111,
+        "chemical": "Diuron",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 112,
+        "chemical": "Elemental carbon",
+        "method": "DIESEL PARTICULATE MATTER (as Elemental Carbon)",
+        "methodNum": 5040,
+        "flowRate": "2 - 4 L/min",
+        "volMinMax": "142 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5040.pdf"
+    },
+    {
+        "id": 113,
+        "chemical": "Elements",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 114,
+        "chemical": "Elements",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 115,
+        "chemical": "Elements",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 116,
+        "chemical": "Ephedrine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 117,
+        "chemical": "Ephedrine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 118,
+        "chemical": "Ethanol",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 119,
+        "chemical": "Ethion",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 120,
+        "chemical": "Ethoprop",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 121,
+        "chemical": "Ethylbenzene",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 122,
+        "chemical": "Ethylene oxide",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 123,
+        "chemical": "Fenaminphos",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 124,
+        "chemical": "Ferroactinolite",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 125,
+        "chemical": "Fibrous glass",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 126,
+        "chemical": "Fluoride",
+        "method": "Fluoride in Urine",
+        "methodNum": 8308,
+        "flowRate": "",
+        "volMinMax": "50 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8308.pdf"
+    },
+    {
+        "id": 127,
+        "chemical": "Fluorides",
+        "method": "PARTICULATE FLUORIDES and HYDROFLUORIC ACID by Ion Chromatography",
+        "methodNum": 7906,
+        "flowRate": "1 - 2 L/min",
+        "volMinMax": "15 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7906.pdf"
+    },
+    {
+        "id": 128,
+        "chemical": "Fonofos",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 129,
+        "chemical": "Formaldehyde",
+        "method": "FORMALDEHYDE",
+        "methodNum": 2016,
+        "flowRate": "0.03 - 1.5 L/min",
+        "volMinMax": "1 - 15 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2016.pdf"
+    },
+    {
+        "id": 130,
+        "chemical": "Formaldehyde",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 131,
+        "chemical": "Formaldehyde",
+        "method": "FORMALDEHYDE ON DUST (TEXTILE OR WOOD)",
+        "methodNum": 5700,
+        "flowRate": "2.0 L/min",
+        "volMinMax": "240 - 1050 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5700.pdf"
+    },
+    {
+        "id": 132,
+        "chemical": "Formetanate",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 133,
+        "chemical": "Glutaraldehyde",
+        "method": "GLUTARALDEYHDE",
+        "methodNum": 2531,
+        "flowRate": "0.01 - 0.08 L/min",
+        "volMinMax": "4 - 39 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2531.pdf"
+    },
+    {
+        "id": 134,
+        "chemical": "n-Hexane",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 135,
+        "chemical": "Hexane",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 136,
+        "chemical": "2,3-Hexanedione",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 137,
+        "chemical": "2,5-Hexanedione in Urine",
+        "method": "2,5-HEXANEDIONE in Urine",
+        "methodNum": 8318,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8318.pdf"
+    },
+    {
+        "id": 138,
+        "chemical": "2-Hexanone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 139,
+        "chemical": "Hydrobromic acid",
+        "method": "VOLATILE ACIDS by Ion Chromatography",
+        "methodNum": 7907,
+        "flowRate": "2 L/min",
+        "volMinMax": "30 - 600 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+    },
+    {
+        "id": 140,
+        "chemical": "Hydrochloric acid",
+        "method": "VOLATILE ACIDS by Ion Chromatography",
+        "methodNum": 7907,
+        "flowRate": "2 L/min",
+        "volMinMax": "30 - 600 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+    },
+    {
+        "id": 141,
+        "chemical": "Hydrofluoric acid",
+        "method": "PARTICULATE FLUORIDES and HYDROFLUORIC ACID by Ion Chromatography",
+        "methodNum": 7906,
+        "flowRate": "1 - 2 L/min",
+        "volMinMax": "15 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7906.pdf"
+    },
+    {
+        "id": 142,
+        "chemical": "Hydrogen bromide",
+        "method": "VOLATILE ACIDS by Ion Chromatography",
+        "methodNum": 7907,
+        "flowRate": "2 L/min",
+        "volMinMax": "30 - 600 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+    },
+    {
+        "id": 143,
+        "chemical": "Hydrogen chloride",
+        "method": "VOLATILE ACIDS by Ion Chromatography",
+        "methodNum": 7907,
+        "flowRate": "2 L/min",
+        "volMinMax": "30 - 600 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+    },
+    {
+        "id": 144,
+        "chemical": "Hydrogen Cyanide",
+        "method": "HYDROGEN CYANIDE",
+        "methodNum": 6010,
+        "flowRate": "0.025 - 0.05 L/min",
+        "volMinMax": "2 - 90 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6010.pdf"
+    },
+    {
+        "id": 145,
+        "chemical": "Hydrogen fluoride",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 146,
+        "chemical": "Hydrogen fluoride",
+        "method": "PARTICULATE FLUORIDES and HYDROFLUORIC ACID by Ion Chromatography",
+        "methodNum": 7906,
+        "flowRate": "1 - 2 L/min",
+        "volMinMax": "15 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7906.pdf"
+    },
+    {
+        "id": 147,
+        "chemical": "Hydroquinone",
+        "method": "HYDROQUINONE",
+        "methodNum": 5004,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "30 - 180 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5004.pdf"
+    },
+    {
+        "id": 148,
+        "chemical": "Ifosfamide",
+        "method": "CYCLOPHOSPHAMIDE and IFOSFAMIDE in urine",
+        "methodNum": 8327,
+        "flowRate": "",
+        "volMinMax": "8 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8327.pdf"
+    },
+    {
+        "id": 149,
+        "chemical": "Indium (In)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 150,
+        "chemical": "Iron (Fe)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 151,
+        "chemical": "Iron (Fe)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 152,
+        "chemical": "Iron (Fe)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 153,
+        "chemical": "Iron (Fe)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 154,
+        "chemical": "Lanthanum (La)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 155,
+        "chemical": "Lead (Pb)",
+        "method": "LEAD by Flame AAS",
+        "methodNum": 7082,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "200 - 1500 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7082.pdf"
+    },
+    {
+        "id": 156,
+        "chemical": "Lead (Pb)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 157,
+        "chemical": "Lead (Pb)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 158,
+        "chemical": "Lead (Pb)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 159,
+        "chemical": "Lead (Pb)",
+        "method": "LEAD BY PORTABLE ULTRASONIC EXTRACTION/ASV",
+        "methodNum": 7701,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "20 - 1500 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7701.pdf"
+    },
+    {
+        "id": 160,
+        "chemical": "Lead oxide",
+        "method": "LEAD BY PORTABLE ULTRASONIC EXTRACTION/ASV",
+        "methodNum": 7701,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "20 - 1500 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7701.pdf"
+    },
+    {
+        "id": 161,
+        "chemical": "d-Limonene",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 162,
+        "chemical": "Lithium (Li)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 163,
+        "chemical": "Lithium (Li)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 164,
+        "chemical": "Lithium (Li)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 165,
+        "chemical": "Lithium Hydroxide",
+        "method": "ALKALI METAL CATIONS Na+, K+, Li+",
+        "methodNum": 7405,
+        "flowRate": "2 - 4 L/min",
+        "volMinMax": "30 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7405.pdf"
+    },
+    {
+        "id": 166,
+        "chemical": "Magnesium (Mg)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 167,
+        "chemical": "Magnesium (Mg)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 168,
+        "chemical": "Magnesium (Mg)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 169,
+        "chemical": "Magnesium (Mg)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 170,
+        "chemical": "MDEA",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 171,
+        "chemical": "MDEA",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 172,
+        "chemical": "MDMA",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 173,
+        "chemical": "MDMA",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 174,
+        "chemical": "Metalworking fluids",
+        "method": "METALWORKING FLUIDS (MWF) ALL CATEGORIES",
+        "methodNum": 5524,
+        "flowRate": "2 L/min",
+        "volMinMax": "768 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5524.pdf"
+    },
+    {
+        "id": 175,
+        "chemical": "Methamidophos",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 176,
+        "chemical": "Methamphetamine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 177,
+        "chemical": "Methamphetamine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 178,
+        "chemical": "Methamphetamine",
+        "method": "METHAMPHETAMINE on Wipes by LC/MS",
+        "methodNum": 9111,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9111.pdf"
+    },
+    {
+        "id": 179,
+        "chemical": "Methanal",
+        "method": "FORMALDEHYDE",
+        "methodNum": 2016,
+        "flowRate": "0.03 - 1.5 L/min",
+        "volMinMax": "1 - 15 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2016.pdf"
+    },
+    {
+        "id": 180,
+        "chemical": "Methanal",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 181,
+        "chemical": "Methanal",
+        "method": "FORMALDEHYDE ON DUST (TEXTILE OR WOOD)",
+        "methodNum": 5700,
+        "flowRate": "2.0 L/min",
+        "volMinMax": "240 - 1050 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5700.pdf"
+    },
+    {
+        "id": 182,
+        "chemical": "Methanol",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 183,
+        "chemical": "Methiocarb",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 184,
+        "chemical": "Methomyl",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 185,
+        "chemical": "Methyl bromide",
+        "method": "METHYL BROMIDE",
+        "methodNum": 2520,
+        "flowRate": "0.01 - 0.1 L/min",
+        "volMinMax": "1 - 5 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2520.pdf"
+    },
+    {
+        "id": 186,
+        "chemical": "Methyl ethyl ketone",
+        "method": "ACETONE and METHYL ETHYL KETONE in Urine",
+        "methodNum": 8319,
+        "flowRate": "",
+        "volMinMax": "20 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8319.pdf"
+    },
+    {
+        "id": 187,
+        "chemical": "Methyl isobutyl ketone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 188,
+        "chemical": "Methyl Methacrylate",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 189,
+        "chemical": "Methyl parathion",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 190,
+        "chemical": "4-Methyl-2-pentanone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 191,
+        "chemical": "Methylarsonic acid",
+        "method": "ARSENIC, organo-",
+        "methodNum": 5022,
+        "flowRate": "1 - 3 L/min",
+        "volMinMax": "50 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf"
+    },
+    {
+        "id": 192,
+        "chemical": "Methylene chloride",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 193,
+        "chemical": "3,4-Methylenedioxyethylamphetamine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 194,
+        "chemical": "3,4-Methylenedioxyethylamphetamine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 195,
+        "chemical": "3,4-Methylenedioxymethamphetamine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 196,
+        "chemical": "3,4-Methylenedioxymethamphetamine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 197,
+        "chemical": "Methyltin trichloride",
+        "method": "METHYLTIN CHLORIDES",
+        "methodNum": 5526,
+        "flowRate": "0.25 - 1 L/min",
+        "volMinMax": "15 - 75 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5526.pdf"
+    },
+    {
+        "id": 198,
+        "chemical": "Mevinphos",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 199,
+        "chemical": "MIBK",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 200,
+        "chemical": "Mitomycin C",
+        "method": "Mitomycin C on Surfaces",
+        "methodNum": 9212,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/9212-508.pdf"
+    },
+    {
+        "id": 201,
+        "chemical": "Molybdenum (Mo)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 202,
+        "chemical": "Molybdenum (Mo)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 203,
+        "chemical": "Molybdenum (Mo)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 204,
+        "chemical": "Molybdenum (Mo)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 205,
+        "chemical": "Moncrotophos",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 206,
+        "chemical": "Nickel (Ni)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 207,
+        "chemical": "Nickel (Ni)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 208,
+        "chemical": "Nickel (Ni)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 209,
+        "chemical": "Nickel (Ni)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 210,
+        "chemical": "Nitric acid",
+        "method": "VOLATILE ACIDS by Ion Chromatography",
+        "methodNum": 7907,
+        "flowRate": "2 L/min",
+        "volMinMax": "30 - 600 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+    },
+    {
+        "id": 211,
+        "chemical": "p-Nitroaniline",
+        "method": "p-NITROANILINE",
+        "methodNum": 5033,
+        "flowRate": "1 - 3 L/min",
+        "volMinMax": "16 - 350 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5033.pdf"
+    },
+    {
+        "id": 212,
+        "chemical": "Nitroaromatic compounds",
+        "method": "NITROAROMATIC COMPOUNDS",
+        "methodNum": 2005,
+        "flowRate": "0.01 - 1 L/min",
+        "volMinMax": "10 - 150 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+    },
+    {
+        "id": 213,
+        "chemical": "Nitrobenzene",
+        "method": "NITROAROMATIC COMPOUNDS",
+        "methodNum": 2005,
+        "flowRate": "0.01 - 1 L/min",
+        "volMinMax": "10 - 150 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+   },
+    {
+        "id": 214,
+        "chemical": "4-Nitrochlorobenzene",
+        "method": "NITROAROMATIC COMPOUNDS",
+        "methodNum": 2005,
+        "flowRate": "0.01 - 1 L/min",
+        "volMinMax": "10 - 150 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+    },
+    {
+        "id": 215,
+        "chemical": "o-,m-,p-Nitrotoluene",
+        "method": "NITROAROMATIC COMPOUNDS",
+        "methodNum": 2005,
+        "flowRate": "0.01 - 1 L/min",
+        "volMinMax": "10 - 150 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+    },
+    {
+        "id": 216,
+        "chemical": "Nitrous oxide",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 217,
+        "chemical": "Norephedrine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+                "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 218,
+        "chemical": "Norephedrine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 219,
+        "chemical": "Nuisance dusts",
+        "method": "PARTICULATES N.O.R., Total",
+        "methodNum": 501,
+        "flowRate": "1 - 2 L/min",
+        "volMinMax": "17 - 333 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/0501.pdf"
+    },
+    {
+        "id": 220,
+        "chemical": "Oxamyl",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 221,
+        "chemical": "Parathion",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 222,
+        "chemical": "Particulates N.O.R.",
+        "method": "PARTICULATES N.O.R., Total",
+        "methodNum": 501,
+        "flowRate": "1 - 2 L/min",
+        "volMinMax": "17 - 333 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/0501.pdf"
+    },
+    {
+        "id": 223,
+        "chemical": "Pentanal",
+        "method": "VALERALDEHYDE",
+        "methodNum": 2536,
+        "flowRate": "0.01 - 0.04 L/min",
+        "volMinMax": "0.5 - 10L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2536.pdf"
+    },
+    {
+        "id": 224,
+        "chemical": "2,3-Pentanedione",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 225,
+        "chemical": "Phencyclidine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 226,
+        "chemical": "Phencyclidine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 227,
+        "chemical": "Phentermine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 228,
+        "chemical": "Phentermine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 229,
+        "chemical": "Phorate",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 230,
+        "chemical": "Phosphine",
+        "method": "PHOSPHINE",
+        "methodNum": 6002,
+        "flowRate": "0.01 - 0.2 L/min",
+        "volMinMax": "1 - 16 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6002.pdf"
+    },
+    {
+        "id": 231,
+        "chemical": "Phosphoric acid",
+        "method": "NON-VOLATILE ACIDS (Sulfuric Acid and Phosphoric Acid)",
+        "methodNum": 7908,
+        "flowRate": "1 - 5 L/min",
+        "volMinMax": "15 - 2000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7908.pdf"
+    },
+    {
+        "id": 232,
+        "chemical": "Phosphorus (P)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 233,
+        "chemical": "Phosphorus (P)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 234,
+        "chemical": "Phosphorus (P)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 235,
+        "chemical": "Phosphorus (P)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 236,
+        "chemical": "a-Pinene",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 237,
+        "chemical": "Platinum (Pt)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 238,
+        "chemical": "Platinum (Pt)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 239,
+        "chemical": "Potassium (K)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 240,
+        "chemical": "Potassium (K)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 241,
+        "chemical": "Potassium (K)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 242,
+        "chemical": "Potassium Hydroxide",
+        "method": "ALKALI METAL CATIONS Na+, K+, Li+",
+        "methodNum": 7405,
+        "flowRate": "2 - 4 L/min",
+        "volMinMax": "30 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7405.pdf"
+    },
+    {
+        "id": 243,
+        "chemical": "2-Propanol",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 244,
+        "chemical": "2-Propanone",
+        "method": "KETONES",
+        "methodNum": 2027,
+        "flowRate": "0.05 – 0.1 l/min",
+        "volMinMax": "2 L - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+    },
+    {
+        "id": 245,
+        "chemical": "Propham",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 246,
+        "chemical": "Propoxur",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 247,
+        "chemical": "Pseudoephedrine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
+        "methodNum": 9106,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+    },
+    {
+        "id": 248,
+        "chemical": "Pseudoephedrine",
+        "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Solid-Phase Extraction",
+        "methodNum": 9109,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+    },
+    {
+        "id": 249,
+        "chemical": "Pyrethrum",
+        "method": "PYRETHRUM",
+        "methodNum": 5008,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "20 - 400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5008.pdf"
+    },
+    {
+        "id": 250,
+        "chemical": "Quartz",
+        "method": "QUARTZ in Respirable Coal Mine Dust, by IR (Redeposition)",
+        "methodNum": 7603,
+        "flowRate": "2 - 4 L/min",
+        "volMinMax": "300 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7603.pdf"
+    },
+    {
+        "id": 251,
+        "chemical": "Refractory ceramic fibers",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 252,
+        "chemical": "Ronnel",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 253,
+        "chemical": "Rotenone",
+        "method": "ROTENONE",
+        "methodNum": 5007,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "8 - 400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5007.pdf"
+    },
+    {
+        "id": 254,
+        "chemical": "S-Phenylmercapturic acid",
+        "method": "S-BENZYLMERCAPTURIC ACID and S-PHENYLMERCAPTURIC ACID in Urine",
+        "methodNum": 8326,
+        "flowRate": "",
+        "volMinMax": "8 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf"
+    },
+    {
+        "id": 255,
+        "chemical": "Selenium (Se)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 256,
+        "chemical": "Selenium (Se)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 257,
+        "chemical": "Selenium (Se)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 258,
+        "chemical": "Silica",
+        "method": "SILICA, Respirable Crystalline, by IR (KBr pellet)",
+        "methodNum": 7602,
+        "flowRate": "2 - 4 L/min",
+        "volMinMax": "400 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7602.pdf"
+    },
+    {
+        "id": 259,
+        "chemical": "Silver (Ag)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 260,
+        "chemical": "Silver (Ag)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 261,
+        "chemical": "Sodium (Na)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 262,
+        "chemical": "Sodium (Na)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 263,
+        "chemical": "Sodium Hydroxide",
+        "method": "ALKALI METAL CATIONS Na+, K+, Li+",
+        "methodNum": 7405,
+        "flowRate": "2 - 4 L/min",
+        "volMinMax": "30 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7405.pdf"
+    },
+    {
+        "id": 264,
+        "chemical": "Strontium (Sr)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 265,
+        "chemical": "Strontium (Sr)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 266,
+        "chemical": "Strontium (Sr)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 267,
+        "chemical": "Strychnine",
+        "method": "STRYCHNINE",
+        "methodNum": 5016,
+        "flowRate": "1 - 3 L/min",
+        "volMinMax": "70 - 1000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5016.pdf"
+    },
+    {
+        "id": 268,
+        "chemical": "Styrene",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 269,
+        "chemical": "Sulfonyl Difluoride",
+        "method": "SULFURYL FLUORIDE",
+        "methodNum": 6012,
+        "flowRate": "0.05 - 0.1 L/min",
+        "volMinMax": "1.3 - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf"
+    },
+    {
+        "id": 270,
+        "chemical": "Sulfur Difluoride Dioxide",
+        "method": "SULFURYL FLUORIDE",
+        "methodNum": 6012,
+        "flowRate": "0.05 - 0.1 L/min",
+        "volMinMax": "1.3 - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf"
+    },
+    {
+        "id": 271,
+        "chemical": "Sulfur dioxide",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 272,
+        "chemical": "Sulfuric acid",
+        "method": "NON-VOLATILE ACIDS (Sulfuric Acid and Phosphoric Acid)",
+        "methodNum": 7908,
+        "flowRate": "1 - 5 L/min",
+        "volMinMax": "15 - 2000 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7908.pdf"
+    },
+    {
+        "id": 273,
+        "chemical": "Sulfuric Oxyfluoride",
+        "method": "SULFURYL FLUORIDE",
+        "methodNum": 6012,
+        "flowRate": "0.05 - 0.1 L/min",
+        "volMinMax": "1.3 - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf"
+    },
+    {
+        "id": 274,
+        "chemical": "Sulfuryl Fluoride",
+        "method": "SULFURYL FLUORIDE",
+        "methodNum": 6012,
+        "flowRate": "0.05 - 0.1 L/min",
+        "volMinMax": "1.3 - 10 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf"
+    },
+    {
+        "id": 275,
+        "chemical": "Sulprofos",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 276,
+        "chemical": "Tellurium (Te)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 277,
+        "chemical": "Tellurium (Te)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 278,
+        "chemical": "Tellurium (Te)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 279,
+        "chemical": "Terbufos",
+        "method": "ORGANOPHOSPHORUS PESTICIDES",
+        "methodNum": 5600,
+        "flowRate": "0.2 - 1 L/min",
+        "volMinMax": "12 - 480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+    },
+    {
+        "id": 280,
+        "chemical": "Tetrabutyltin",
+        "method": "ORGANOTIN COMPOUNDS (as Sn)",
+        "methodNum": 5504,
+        "flowRate": "1 - 1.5 L/min",
+        "volMinMax": "50 - 500 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+    },
+    {
+        "id": 281,
+        "chemical": "Tetrafluoroethylene",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 282,
+        "chemical": "Tetrahydrofuran",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 283,
+        "chemical": "Thallium (Tl)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 284,
+        "chemical": "Thallium (Tl)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 285,
+        "chemical": "Thallium (Tl)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 286,
+        "chemical": "Thiobencarb",
+        "method": "ORGANONITROGEN PESTICIDES",
+        "methodNum": 5601,
+        "flowRate": "0.1 - 1 L/min",
+        "volMinMax": "480 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+    },
+    {
+        "id": 287,
+        "chemical": "Thiram",
+        "method": "THIRAM",
+        "methodNum": 5005,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "10 - 400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5005.pdf"
+    },
+    {
+        "id": 288,
+        "chemical": "Tin (Sn)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 289,
+        "chemical": "Tin (Sn)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 290,
+        "chemical": "Tin, organic compounds as Sn",
+        "method": "ORGANOTIN COMPOUNDS (as Sn)",
+        "methodNum": 5504,
+        "flowRate": "1 - 1.5 L/min",
+        "volMinMax": "50 - 500 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+    },
+    {
+        "id": 291,
+        "chemical": "Titanium (Ti)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 292,
+        "chemical": "Titanium (Ti)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 293,
+        "chemical": "Titanium (Ti)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 294,
+        "chemical": "Toluene",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 295,
+        "chemical": "Toluene",
+        "method": "TOLUENE in Blood",
+        "methodNum": 8007,
+        "flowRate": "",
+        "volMinMax": "10 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8007.pdf"
+    },
+    {
+        "id": 296,
+        "chemical": "Toluene",
+        "method": "o-CRESOL in Urine",
+        "methodNum": 8321,
+        "flowRate": "",
+        "volMinMax": "50 - 100 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8321.pdf"
+    },
+    {
+        "id": 297,
+        "chemical": "Toluene",
+        "method": "S-BENZYLMERCAPTURIC ACID and S-PHENYLMERCAPTURIC ACID in Urine",
+        "methodNum": 8326,
+        "flowRate": "",
+        "volMinMax": "8 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf"
+    },
+    {
+        "id": 298,
+        "chemical": "Toluene",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 299,
+        "chemical": "Tremolite",
+        "method": "ASBESTOS and OTHER FIBERS by PCM",
+        "methodNum": 7400,
+        "flowRate": "0.5 - 16 L/min",
+        "volMinMax": "400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+    },
+    {
+        "id": 300,
+        "chemical": "Tributyltin chloride",
+        "method": "ORGANOTIN COMPOUNDS (as Sn)",
+        "methodNum": 5504,
+        "flowRate": "1 - 1.5 L/min",
+        "volMinMax": "50 - 500 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+    },
+    {
+        "id": 301,
+        "chemical": "Trichloroacetic acid",
+        "method": "TRICHLOROACETIC ACID in Urine",
+        "methodNum": 8322,
+        "flowRate": "",
+        "volMinMax": "10 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8322.pdf"
+    },
+    {
+        "id": 302,
+        "chemical": "Trichloroethylene",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 303,
+        "chemical": "Trichloroethylene",
+        "method": "TRICHLOROACETIC ACID in Urine",
+        "methodNum": 8322,
+        "flowRate": "",
+        "volMinMax": "10 mL",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8322.pdf"
+    },
+    {
+        "id": 304,
+        "chemical": "Trichloromethane",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 305,
+        "chemical": "Tricyclohexyltin hydroxide",
+        "method": "ORGANOTIN COMPOUNDS (as Sn)",
+        "methodNum": 5504,
+        "flowRate": "1 - 1.5 L/min",
+        "volMinMax": "50 - 500 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+    },
+    {
+        "id": 306,
+        "chemical": "Trimethyltin chloride",
+        "method": "METHYLTIN CHLORIDES",
+        "methodNum": 5526,
+        "flowRate": "0.25 - 1 L/min",
+        "volMinMax": "15 - 75 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5526.pdf"
+    },
+    {
+        "id": 307,
+        "chemical": "Tungsten (W)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 308,
+        "chemical": "Valeraldehyde",
+        "method": "VALERALDEHYDE",
+        "methodNum": 2536,
+        "flowRate": "0.01 - 0.04 L/min",
+        "volMinMax": "0.5 - 10L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2536.pdf"
+    },
+    {
+        "id": 309,
+        "chemical": "Vanadium (V)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 310,
+        "chemical": "Vanadium (V)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 311,
+        "chemical": "Vanadium (V)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 312,
+        "chemical": "Vinyl acetate",
+        "method": "VINYL ACETATE",
+        "methodNum": 1453,
+        "flowRate": "0.05 - 0.2 L/min",
+        "volMinMax": "1.5 - 24 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/1453.pdf"
+    },
+    {
+        "id": 313,
+        "chemical": "Vinylidene fluoride",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 314,
+        "chemical": "Volatile acids",
+        "method": "VOLATILE ACIDS by Ion Chromatography",
+        "methodNum": 7907,
+        "flowRate": "2 L/min",
+        "volMinMax": "30 - 600 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+    },
+    {
+        "id": 315,
+        "chemical": "m-Xylene",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 316,
+        "chemical": "o-Xylene",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 317,
+        "chemical": "o-,m-,p-Xylene",
+        "method": "ORGANIC & INORGANIC GASES by Extractive FTIR Spectrometry",
+        "methodNum": 3800,
+        "flowRate": "0.1 L/min - 20 L/min",
+        "volMinMax": "Instrument dependent",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+    },
+    {
+        "id": 318,
+        "chemical": "p-Xylene",
+        "method": "Volatile Organic Compounds, C1 to C10, Canister Method",
+        "methodNum": 3900,
+        "flowRate": "0.06 - 50 mL/min",
+        "volMinMax": "See SAMPLING section",
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+    },
+    {
+        "id": 319,
+        "chemical": "Yttrium (Y)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 320,
+        "chemical": "Yttrium (Y)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 321,
+        "chemical": "Yttrium (Y)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 322,
+        "chemical": "Zinc (Zn)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 323,
+        "chemical": "Zinc (Zn)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 324,
+        "chemical": "Zinc (Zn)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+    {
+        "id": 325,
+        "chemical": "Zinc (Zn)",
+        "method": "ELEMENTS in Tissues",
+        "methodNum": 8200,
+        "flowRate": "",
+        "volMinMax": "",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+    },
+    {
+        "id": 326,
+        "chemical": "Zinc oxide",
+        "method": "ZINC OXIDE",
+        "methodNum": 7502,
+        "flowRate": "1 - 3 L/min",
+        "volMinMax": "10 - 400 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7502.pdf"
+    },
+    {
+        "id": 327,
+        "chemical": "Zirconium (Zr)",
+        "method": "ELEMENTS by ICP (Microwave Digestion)",
+        "methodNum": 7302,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+    },
+    {
+        "id": 328,
+        "chemical": "Zirconium (Zr)",
+        "method": "ELEMENTS by ICP Microwave Digestion",
+        "methodNum": 7304,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "5 - 100 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+    },
+    {
+        "id": 329,
+        "chemical": "Zirconium (Zr)",
+        "method": "ELEMENTS by Cellulosic Internal Capsule Sampler",
+        "methodNum": 7306,
+        "flowRate": "1 - 4 L/min",
+        "volMinMax": "1 - 330 L",
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+    },
+]

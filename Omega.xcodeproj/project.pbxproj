@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D9490D922764213E009B93B4 /* chemicals.json in Resources */ = {isa = PBXBuildFile; fileRef = D9490D912764213E009B93B4 /* chemicals.json */; };
 		D97150E92760531A00C93553 /* OmegaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97150E82760531A00C93553 /* OmegaApp.swift */; };
 		D97150EB2760531A00C93553 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97150EA2760531A00C93553 /* ContentView.swift */; };
 		D97150ED2760531B00C93553 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D97150EC2760531B00C93553 /* Assets.xcassets */; };
@@ -15,10 +16,10 @@
 		D97150F92760538800C93553 /* NewSampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97150F82760538800C93553 /* NewSampleView.swift */; };
 		D97150FB276053AE00C93553 /* Chemical.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97150FA276053AE00C93553 /* Chemical.swift */; };
 		D97150FD276053C700C93553 /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97150FC276053C700C93553 /* Sample.swift */; };
-		D97150FF276053FD00C93553 /* chemicals.json in Resources */ = {isa = PBXBuildFile; fileRef = D97150FE276053FD00C93553 /* chemicals.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D9490D912764213E009B93B4 /* chemicals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chemicals.json; sourceTree = "<group>"; };
 		D97150E52760531A00C93553 /* Omega.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Omega.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D97150E82760531A00C93553 /* OmegaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OmegaApp.swift; sourceTree = "<group>"; };
 		D97150EA2760531A00C93553 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -28,7 +29,6 @@
 		D97150F82760538800C93553 /* NewSampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewSampleView.swift; sourceTree = "<group>"; };
 		D97150FA276053AE00C93553 /* Chemical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chemical.swift; sourceTree = "<group>"; };
 		D97150FC276053C700C93553 /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
-		D97150FE276053FD00C93553 /* chemicals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chemicals.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +67,7 @@
 				D97150F82760538800C93553 /* NewSampleView.swift */,
 				D97150FA276053AE00C93553 /* Chemical.swift */,
 				D97150FC276053C700C93553 /* Sample.swift */,
-				D97150FE276053FD00C93553 /* chemicals.json */,
+				D9490D912764213E009B93B4 /* chemicals.json */,
 				D97150EC2760531B00C93553 /* Assets.xcassets */,
 				D97150EE2760531B00C93553 /* Preview Content */,
 			);
@@ -140,7 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D97150FF276053FD00C93553 /* chemicals.json in Resources */,
+				D9490D922764213E009B93B4 /* chemicals.json in Resources */,
 				D97150F02760531B00C93553 /* Preview Assets.xcassets in Resources */,
 				D97150ED2760531B00C93553 /* Assets.xcassets in Resources */,
 			);

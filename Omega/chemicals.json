@@ -6,7 +6,8 @@
         "methodNum": 8327,
         "flowRate": "",
         "volMinMax": "8 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8327.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8327.pdf",
+        "pel": 0
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 2400
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 2400
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "methodNum": 8319,
         "flowRate": "",
         "volMinMax": "20 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8319.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8319.pdf",
+        "pel": 2400
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 2400
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 15
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 15
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 15
     },
     {
         "id": 11,
@@ -96,7 +106,8 @@
         "methodNum": 5022,
         "flowRate": "1 - 3 L/min",
         "volMinMax": "50 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf",
+        "pel": 0.5
     },
     {
         "id": 12,
@@ -105,7 +116,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 35
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "methodNum": 6016,
         "flowRate": "0.1 - 0.5 L/min",
         "volMinMax": "0.1 - 96 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6016.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6016.pdf",
+        "pel": 35
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 15,
@@ -132,7 +146,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 16,
@@ -141,7 +156,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 17,
@@ -150,7 +166,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 18,
@@ -159,7 +176,8 @@
         "methodNum": 2514,
         "flowRate": "0.5 – 1.0 L/min",
         "volMinMax": "24 - 320 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2514.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2514.pdf",
+        "pel": 0.5
     },
     {
         "id": 19,
@@ -168,7 +186,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 20,
@@ -177,7 +196,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.5
     },
     {
         "id": 21,
@@ -186,7 +206,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.5
     },
     {
         "id": 22,
@@ -195,7 +216,8 @@
         "methodNum": 5022,
         "flowRate": "1 - 3 L/min",
         "volMinMax": "50 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf",
+        "pel": 0.5
     },
     {
         "id": 23,
@@ -204,7 +226,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.5
     },
     {
         "id": 24,
@@ -213,7 +236,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.5
     },
     {
         "id": 25,
@@ -222,7 +246,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.5
     },
     {
         "id": 26,
@@ -231,7 +256,8 @@
         "methodNum": 6001,
         "flowRate": "0.01 - 0.2 L/min",
         "volMinMax": "0.1 - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6001.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6001.pdf",
+        "pel": 0.05
     },
     {
         "id": 27,
@@ -240,7 +266,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 28,
@@ -249,7 +276,8 @@
         "methodNum": 9000,
         "flowRate": "",
         "volMinMax": "1 - 10 g",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9000.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9000.pdf",
+        "pel": 0
     },
     {
         "id": 29,
@@ -258,7 +286,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0.2
     },
     {
         "id": 30,
@@ -267,7 +296,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.5
     },
     {
         "id": 31,
@@ -276,7 +306,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.5
     },
     {
         "id": 32,
@@ -285,7 +316,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.5
     },
     {
         "id": 33,
@@ -294,7 +326,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 15
     },
     {
         "id": 34,
@@ -303,7 +336,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 3
     },
     {
         "id": 35,
@@ -312,7 +346,8 @@
         "methodNum": 8326,
         "flowRate": "",
         "volMinMax": "8 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf",
+        "pel": 3
     },
     {
         "id": 36,
@@ -321,7 +356,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 0.5
     },
     {
         "id": 37,
@@ -330,7 +366,8 @@
         "methodNum": 5509,
         "flowRate": "0.2 L/min",
         "volMinMax": "20 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5509.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5509.pdf",
+        "pel": 0
     },
     {
         "id": 38,
@@ -339,7 +376,8 @@
         "methodNum": 5009,
         "flowRate": "1 - 3 L/min",
         "volMinMax": "40 - 400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5009.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5009.pdf",
+        "pel": 5
     },
     {
         "id": 39,
@@ -348,7 +386,8 @@
         "methodNum": 8326,
         "flowRate": "",
         "volMinMax": "8 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf",
+        "pel": 0
     },
     {
         "id": 40,
@@ -357,7 +396,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.0002
     },
     {
         "id": 41,
@@ -366,7 +406,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.0002
     },
     {
         "id": 42,
@@ -375,7 +416,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.0002
     },
     {
         "id": 43,
@@ -384,7 +426,8 @@
         "methodNum": 7704,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "240 - 2000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7704.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7704.pdf",
+        "pel": 0.0002
     },
     {
         "id": 44,
@@ -393,7 +436,8 @@
         "methodNum": 9110,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9110.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9110.pdf",
+        "pel": 0.0002
     },
     {
         "id": 45,
@@ -402,7 +446,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 15
     },
     {
         "id": 46,
@@ -411,7 +456,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 15
     },
     {
         "id": 47,
@@ -420,7 +466,8 @@
         "methodNum": 2520,
         "flowRate": "0.01 - 0.1 L/min",
         "volMinMax": "1 - 5 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2520.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2520.pdf",
+        "pel": 80
     },
     {
         "id": 48,
@@ -429,7 +476,8 @@
         "methodNum": 8324,
         "flowRate": "",
         "volMinMax": "15 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8324.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8324.pdf",
+        "pel": 0
     },
     {
         "id": 49,
@@ -438,7 +486,8 @@
         "methodNum": 8324,
         "flowRate": "",
         "volMinMax": "15 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8324.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8324.pdf",
+        "pel": 0
     },
     {
         "id": 50,
@@ -447,7 +496,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 0
     },
     {
         "id": 51,
@@ -456,7 +506,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 590
     },
     {
         "id": 52,
@@ -465,7 +516,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 590
     },
     {
         "id": 53,
@@ -474,7 +526,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 410
     },
     {
         "id": 54,
@@ -483,7 +536,8 @@
         "methodNum": 8320,
         "flowRate": "",
         "volMinMax": "15 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8320.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8320.pdf",
+        "pel": 0
     },
     {
         "id": 55,
@@ -492,7 +546,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.005
     },
     {
         "id": 56,
@@ -501,7 +556,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.005
     },
     {
         "id": 57,
@@ -510,7 +566,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.005
     },
     {
         "id": 58,
@@ -519,7 +576,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 59,
@@ -528,7 +586,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 60,
@@ -537,7 +596,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 5
     },
     {
         "id": 61,
@@ -546,7 +606,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 5
     },
     {
         "id": 62,
@@ -555,7 +616,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 5
     },
     {
         "id": 63,
@@ -564,7 +626,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 5
     },
     {
         "id": 64,
@@ -573,7 +636,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 65,
@@ -582,7 +646,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 5
     },
     {
         "id": 66,
@@ -591,7 +656,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 67,
@@ -600,7 +666,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 68,
@@ -609,7 +676,8 @@
         "methodNum": 5100,
         "flowRate": "1 - 2 L/min",
         "volMinMax": "75 - 1400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5100.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5100.pdf",
+        "pel": 3.5
     },
     {
         "id": 69,
@@ -618,7 +686,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 60
     },
     {
         "id": 70,
@@ -627,7 +696,8 @@
         "methodNum": 6604,
         "flowRate": "instrument dependent",
         "volMinMax": "10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6604.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6604.pdf",
+        "pel": 55
     },
     {
         "id": 71,
@@ -636,7 +706,8 @@
         "methodNum": 2008,
         "flowRate": "0.05 - 0.2 L/min",
         "volMinMax": "1 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2008.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2008.pdf",
+        "pel": 0
     },
     {
         "id": 72,
@@ -645,7 +716,8 @@
         "methodNum": 2005,
         "flowRate": "0.01 - 1 L/min",
         "volMinMax": "10 - 150 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf",
+        "pel": 1
     },
     {
         "id": 73,
@@ -654,7 +726,8 @@
         "methodNum": 2014,
         "flowRate": "0.05 - 0.2 L/min",
         "volMinMax": "1.5 - 40 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2014.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2014.pdf",
+        "pel": 0.5
     },
     {
         "id": 74,
@@ -663,7 +736,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 75,
@@ -672,7 +746,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 76,
@@ -681,7 +756,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 1
     },
     {
         "id": 77,
@@ -690,7 +766,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 1
     },
     {
         "id": 78,
@@ -699,7 +776,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 1
     },
     {
         "id": 79,
@@ -708,7 +786,8 @@
         "methodNum": 7600,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "34 - 400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7600.pdf",
+        "pel": 1
     },
     {
         "id": 80,
@@ -717,7 +796,8 @@
         "methodNum": 7605,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7605.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7605.pdf",
+        "pel": 1
     },
     {
         "id": 81,
@@ -726,7 +806,8 @@
         "methodNum": 7703,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "54 - 1200 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7703.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7703.pdf",
+        "pel": 1
     },
     {
         "id": 82,
@@ -735,7 +816,8 @@
         "methodNum": 7600,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "34 - 400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7600.pdf",
+        "pel": 0.5
     },
     {
         "id": 83,
@@ -744,7 +826,8 @@
         "methodNum": 7605,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7605.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7605.pdf",
+        "pel": 0.5
     },
     {
         "id": 84,
@@ -753,7 +836,8 @@
         "methodNum": 7703,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "54 - 1200 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7703.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7703.pdf",
+        "pel": 0.5
     },
     {
         "id": 85,
@@ -762,7 +846,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 86,
@@ -771,7 +856,8 @@
         "methodNum": 9000,
         "flowRate": "",
         "volMinMax": "1 - 10 g",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9000.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9000.pdf",
+        "pel": 0
     },
     {
         "id": 87,
@@ -780,7 +866,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.1
     },
     {
         "id": 88,
@@ -789,7 +876,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.1
     },
     {
         "id": 89,
@@ -798,7 +886,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.1
     },
     {
         "id": 90,
@@ -807,7 +896,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 1
     },
     {
         "id": 91,
@@ -816,7 +906,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 1
     },
     {
         "id": 92,
@@ -825,7 +916,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 1
     },
     {
         "id": 93,
@@ -834,7 +926,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 1
     },
     {
         "id": 94,
@@ -843,7 +936,8 @@
         "methodNum": 8321,
         "flowRate": "",
         "volMinMax": "50 - 100 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8321.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8321.pdf",
+        "pel": 22
     },
     {
         "id": 95,
@@ -852,7 +946,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 96,
@@ -861,7 +956,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 200
     },
     {
         "id": 97,
@@ -870,7 +966,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 1050
     },
     {
         "id": 98,
@@ -879,7 +976,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 0
     },
     {
         "id": 99,
@@ -888,7 +986,8 @@
         "methodNum": 8327,
         "flowRate": "",
         "volMinMax": "8 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8327.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8327.pdf",
+        "pel": 0
     },
     {
         "id": 100,
@@ -897,7 +996,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 101,
@@ -906,7 +1006,8 @@
         "methodNum": 5504,
         "flowRate": "1 - 1.5 L/min",
         "volMinMax": "50 - 500 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf",
+        "pel": 5
     },
     {
         "id": 102,
@@ -915,7 +1016,8 @@
         "methodNum": 5509,
         "flowRate": "0.2 L/min",
         "volMinMax": "20 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5509.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5509.pdf",
+        "pel": 300
     },
     {
         "id": 103,
@@ -924,7 +1026,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 88
     },
     {
         "id": 104,
@@ -933,7 +1036,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 105,
@@ -942,7 +1046,8 @@
         "methodNum": 5040,
         "flowRate": "2 - 4 L/min",
         "volMinMax": "142 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5040.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5040.pdf",
+        "pel": 0
     },
     {
         "id": 106,
@@ -951,7 +1056,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 290
     },
     {
         "id": 107,
@@ -960,7 +1066,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 0
     },
     {
         "id": 108,
@@ -969,7 +1076,8 @@
         "methodNum": 5022,
         "flowRate": "1 - 3 L/min",
         "volMinMax": "50 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf",
+        "pel": 0.5
     },
     {
         "id": 109,
@@ -978,7 +1086,8 @@
         "methodNum": 5526,
         "flowRate": "0.25 - 1 L/min",
         "volMinMax": "15 - 75 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5526.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5526.pdf",
+        "pel": 0
     },
     {
         "id": 110,
@@ -987,7 +1096,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 111,
@@ -996,7 +1106,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 112,
@@ -1005,7 +1116,8 @@
         "methodNum": 5040,
         "flowRate": "2 - 4 L/min",
         "volMinMax": "142 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5040.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5040.pdf",
+        "pel": 0
     },
     {
         "id": 113,
@@ -1014,7 +1126,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0
     },
     {
         "id": 114,
@@ -1023,7 +1136,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0
     },
     {
         "id": 115,
@@ -1032,7 +1146,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0
     },
     {
         "id": 116,
@@ -1041,7 +1156,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 117,
@@ -1050,7 +1166,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 118,
@@ -1059,7 +1176,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 0
     },
     {
         "id": 119,
@@ -1068,7 +1186,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 120,
@@ -1077,7 +1196,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 121,
@@ -1086,7 +1206,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 0
     },
     {
         "id": 122,
@@ -1095,7 +1216,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 10
     },
     {
         "id": 123,
@@ -1104,7 +1226,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 124,
@@ -1113,7 +1236,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 125,
@@ -1122,7 +1246,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 126,
@@ -1131,7 +1256,8 @@
         "methodNum": 8308,
         "flowRate": "",
         "volMinMax": "50 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8308.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8308.pdf",
+        "pel": 0
     },
     {
         "id": 127,
@@ -1140,7 +1266,8 @@
         "methodNum": 7906,
         "flowRate": "1 - 2 L/min",
         "volMinMax": "15 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7906.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7906.pdf",
+        "pel": 0
     },
     {
         "id": 128,
@@ -1149,7 +1276,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 129,
@@ -1158,7 +1286,8 @@
         "methodNum": 2016,
         "flowRate": "0.03 - 1.5 L/min",
         "volMinMax": "1 - 15 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2016.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2016.pdf",
+        "pel": 1
     },
     {
         "id": 130,
@@ -1167,7 +1296,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 1
     },
     {
         "id": 131,
@@ -1176,7 +1306,8 @@
         "methodNum": 5700,
         "flowRate": "2.0 L/min",
         "volMinMax": "240 - 1050 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5700.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5700.pdf",
+        "pel": 1
     },
     {
         "id": 132,
@@ -1185,7 +1316,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 133,
@@ -1194,7 +1326,8 @@
         "methodNum": 2531,
         "flowRate": "0.01 - 0.08 L/min",
         "volMinMax": "4 - 39 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2531.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2531.pdf",
+        "pel": 0
     },
     {
         "id": 134,
@@ -1203,7 +1336,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 1800
     },
     {
         "id": 135,
@@ -1212,7 +1346,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 0
     },
     {
         "id": 136,
@@ -1221,7 +1356,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 0
     },
     {
         "id": 137,
@@ -1230,7 +1366,8 @@
         "methodNum": 8318,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8318.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8318.pdf",
+        "pel": 0
     },
     {
         "id": 138,
@@ -1239,7 +1376,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 410
     },
     {
         "id": 139,
@@ -1248,7 +1386,8 @@
         "methodNum": 7907,
         "flowRate": "2 L/min",
         "volMinMax": "30 - 600 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf",
+        "pel": 0
     },
     {
         "id": 140,
@@ -1257,7 +1396,8 @@
         "methodNum": 7907,
         "flowRate": "2 L/min",
         "volMinMax": "30 - 600 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf",
+        "pel": 7
     },
     {
         "id": 141,
@@ -1266,7 +1406,8 @@
         "methodNum": 7906,
         "flowRate": "1 - 2 L/min",
         "volMinMax": "15 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7906.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7906.pdf",
+        "pel": 0
     },
     {
         "id": 142,
@@ -1275,7 +1416,8 @@
         "methodNum": 7907,
         "flowRate": "2 L/min",
         "volMinMax": "30 - 600 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf",
+        "pel": 10
     },
     {
         "id": 143,
@@ -1284,7 +1426,8 @@
         "methodNum": 7907,
         "flowRate": "2 L/min",
         "volMinMax": "30 - 600 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf",
+        "pel": 7
     },
     {
         "id": 144,
@@ -1293,7 +1436,8 @@
         "methodNum": 6010,
         "flowRate": "0.025 - 0.05 L/min",
         "volMinMax": "2 - 90 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6010.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6010.pdf",
+        "pel": 11
     },
     {
         "id": 145,
@@ -1302,7 +1446,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 2
     },
     {
         "id": 146,
@@ -1311,7 +1456,8 @@
         "methodNum": 7906,
         "flowRate": "1 - 2 L/min",
         "volMinMax": "15 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7906.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7906.pdf",
+        "pel": 2
     },
     {
         "id": 147,
@@ -1320,7 +1466,8 @@
         "methodNum": 5004,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "30 - 180 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5004.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5004.pdf",
+        "pel": 2
     },
     {
         "id": 148,
@@ -1329,7 +1476,8 @@
         "methodNum": 8327,
         "flowRate": "",
         "volMinMax": "8 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8327.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/8327.pdf",
+        "pel": 0
     },
     {
         "id": 149,
@@ -1338,7 +1486,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0
     },
     {
         "id": 150,
@@ -1347,7 +1496,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 10
     },
     {
         "id": 151,
@@ -1356,7 +1506,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 10
     },
     {
         "id": 152,
@@ -1365,7 +1516,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 10
     },
     {
         "id": 153,
@@ -1374,7 +1526,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 10
     },
     {
         "id": 154,
@@ -1383,7 +1536,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0
     },
     {
         "id": 155,
@@ -1392,7 +1546,8 @@
         "methodNum": 7082,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "200 - 1500 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7082.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7082.pdf",
+        "pel": 0.05
     },
     {
         "id": 156,
@@ -1401,7 +1556,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.05
     },
     {
         "id": 157,
@@ -1410,7 +1566,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.05
     },
     {
         "id": 158,
@@ -1419,7 +1576,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.05
     },
     {
         "id": 159,
@@ -1428,7 +1586,8 @@
         "methodNum": 7701,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "20 - 1500 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7701.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7701.pdf",
+        "pel": 0.05
     },
     {
         "id": 160,
@@ -1437,7 +1596,8 @@
         "methodNum": 7701,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "20 - 1500 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7701.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7701.pdf",
+        "pel": 0
     },
     {
         "id": 161,
@@ -1446,7 +1606,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 0
     },
     {
         "id": 162,
@@ -1455,7 +1616,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.025
     },
     {
         "id": 163,
@@ -1464,7 +1626,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.025
     },
     {
         "id": 164,
@@ -1473,7 +1636,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.025
     },
     {
         "id": 165,
@@ -1482,7 +1646,8 @@
         "methodNum": 7405,
         "flowRate": "2 - 4 L/min",
         "volMinMax": "30 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7405.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7405.pdf",
+        "pel": 0.025
     },
     {
         "id": 166,
@@ -1491,7 +1656,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 15
     },
     {
         "id": 167,
@@ -1500,7 +1666,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 15
     },
     {
         "id": 168,
@@ -1509,7 +1676,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 15
     },
     {
         "id": 169,
@@ -1518,7 +1686,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 15
     },
     {
         "id": 170,
@@ -1527,7 +1696,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 171,
@@ -1536,7 +1706,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 172,
@@ -1545,7 +1716,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 173,
@@ -1554,7 +1726,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 174,
@@ -1563,7 +1736,8 @@
         "methodNum": 5524,
         "flowRate": "2 L/min",
         "volMinMax": "768 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5524.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5524.pdf",
+        "pel": 0
     },
     {
         "id": 175,
@@ -1572,7 +1746,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 176,
@@ -1581,7 +1756,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 177,
@@ -1590,7 +1766,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 178,
@@ -1599,7 +1776,8 @@
         "methodNum": 9111,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9111.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9111.pdf",
+        "pel": 0
     },
     {
         "id": 179,
@@ -1608,7 +1786,8 @@
         "methodNum": 2016,
         "flowRate": "0.03 - 1.5 L/min",
         "volMinMax": "1 - 15 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2016.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2016.pdf",
+        "pel": 0
     },
     {
         "id": 180,
@@ -1617,7 +1796,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 3
     },
     {
         "id": 181,
@@ -1626,7 +1806,8 @@
         "methodNum": 5700,
         "flowRate": "2.0 L/min",
         "volMinMax": "240 - 1050 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5700.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5700.pdf",
+        "pel": 3
     },
     {
         "id": 182,
@@ -1635,7 +1816,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 260
     },
     {
         "id": 183,
@@ -1644,7 +1826,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 184,
@@ -1653,7 +1836,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 185,
@@ -1662,7 +1846,8 @@
         "methodNum": 2520,
         "flowRate": "0.01 - 0.1 L/min",
         "volMinMax": "1 - 5 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2520.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2520.pdf",
+        "pel": 80
     },
     {
         "id": 186,
@@ -1671,7 +1856,8 @@
         "methodNum": 8319,
         "flowRate": "",
         "volMinMax": "20 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8319.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8319.pdf",
+        "pel": 590
     },
     {
         "id": 187,
@@ -1680,7 +1866,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 410
     },
     {
         "id": 188,
@@ -1689,7 +1876,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 410
     },
     {
         "id": 189,
@@ -1698,7 +1886,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 190,
@@ -1707,7 +1896,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 0
     },
     {
         "id": 191,
@@ -1716,7 +1906,8 @@
         "methodNum": 5022,
         "flowRate": "1 - 3 L/min",
         "volMinMax": "50 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5022.pdf",
+        "pel": 0
     },
     {
         "id": 192,
@@ -1725,7 +1916,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 0
     },
     {
         "id": 193,
@@ -1734,7 +1926,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 194,
@@ -1743,7 +1936,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 195,
@@ -1752,7 +1946,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 196,
@@ -1761,7 +1956,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 197,
@@ -1770,7 +1966,8 @@
         "methodNum": 5526,
         "flowRate": "0.25 - 1 L/min",
         "volMinMax": "15 - 75 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5526.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5526.pdf",
+        "pel": 0
     },
     {
         "id": 198,
@@ -1779,7 +1976,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0.1
     },
     {
         "id": 199,
@@ -1788,7 +1986,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 410
     },
     {
         "id": 200,
@@ -1797,7 +1996,8 @@
         "methodNum": 9212,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/9212-508.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/9212-508.pdf",
+        "pel": 0
     },
     {
         "id": 201,
@@ -1806,7 +2006,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 15
     },
     {
         "id": 202,
@@ -1815,7 +2016,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 15
     },
     {
         "id": 203,
@@ -1824,7 +2026,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 15
     },
     {
         "id": 204,
@@ -1833,7 +2036,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 15
     },
     {
         "id": 205,
@@ -1842,7 +2046,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 206,
@@ -1851,7 +2056,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 1
     },
     {
         "id": 207,
@@ -1860,7 +2066,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 1
     },
     {
         "id": 208,
@@ -1869,7 +2076,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 1
     },
     {
         "id": 209,
@@ -1878,7 +2086,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 1
     },
     {
         "id": 210,
@@ -1887,7 +2096,8 @@
         "methodNum": 7907,
         "flowRate": "2 L/min",
         "volMinMax": "30 - 600 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf",
+        "pel": 5
     },
     {
         "id": 211,
@@ -1896,7 +2106,8 @@
         "methodNum": 5033,
         "flowRate": "1 - 3 L/min",
         "volMinMax": "16 - 350 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5033.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5033.pdf",
+        "pel": 6
     },
     {
         "id": 212,
@@ -1905,7 +2116,8 @@
         "methodNum": 2005,
         "flowRate": "0.01 - 1 L/min",
         "volMinMax": "10 - 150 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf",
+        "pel": 0
     },
     {
         "id": 213,
@@ -1914,7 +2126,8 @@
         "methodNum": 2005,
         "flowRate": "0.01 - 1 L/min",
         "volMinMax": "10 - 150 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf",
+        "pel": 5
    },
     {
         "id": 214,
@@ -1923,7 +2136,8 @@
         "methodNum": 2005,
         "flowRate": "0.01 - 1 L/min",
         "volMinMax": "10 - 150 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf",
+        "pel": 1
     },
     {
         "id": 215,
@@ -1932,7 +2146,8 @@
         "methodNum": 2005,
         "flowRate": "0.01 - 1 L/min",
         "volMinMax": "10 - 150 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2005.pdf",
+        "pel": 30
     },
     {
         "id": 216,
@@ -1941,16 +2156,18 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 0
     },
     {
         "id": 217,
         "chemical": "Norephedrine",
         "method": "METHAMPHETAMINE and Illicit Drugs, Precursors and Adulterants on Wipes by Liquid-Liquid Extraction",
-                "methodNum": 9106,
+        "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 218,
@@ -1959,7 +2176,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 219,
@@ -1968,7 +2186,8 @@
         "methodNum": 501,
         "flowRate": "1 - 2 L/min",
         "volMinMax": "17 - 333 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/0501.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/0501.pdf",
+        "pel": 15
     },
     {
         "id": 220,
@@ -1977,7 +2196,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 221,
@@ -1986,7 +2206,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0.1
     },
     {
         "id": 222,
@@ -1995,7 +2216,8 @@
         "methodNum": 501,
         "flowRate": "1 - 2 L/min",
         "volMinMax": "17 - 333 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/0501.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/0501.pdf",
+        "pel": 15
     },
     {
         "id": 223,
@@ -2004,7 +2226,8 @@
         "methodNum": 2536,
         "flowRate": "0.01 - 0.04 L/min",
         "volMinMax": "0.5 - 10L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2536.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2536.pdf",
+        "pel": 0
     },
     {
         "id": 224,
@@ -2013,7 +2236,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 0
     },
     {
         "id": 225,
@@ -2022,7 +2246,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 226,
@@ -2031,7 +2256,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 227,
@@ -2040,7 +2266,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 228,
@@ -2049,7 +2276,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 229,
@@ -2058,7 +2286,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 230,
@@ -2067,7 +2296,8 @@
         "methodNum": 6002,
         "flowRate": "0.01 - 0.2 L/min",
         "volMinMax": "1 - 16 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6002.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6002.pdf",
+        "pel": 0.4
     },
     {
         "id": 231,
@@ -2076,7 +2306,8 @@
         "methodNum": 7908,
         "flowRate": "1 - 5 L/min",
         "volMinMax": "15 - 2000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7908.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7908.pdf",
+        "pel": 1
     },
     {
         "id": 232,
@@ -2085,7 +2316,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.1
     },
     {
         "id": 233,
@@ -2094,7 +2326,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.1
     },
     {
         "id": 234,
@@ -2103,7 +2336,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.1
     },
     {
         "id": 235,
@@ -2112,7 +2346,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 0.1
     },
     {
         "id": 236,
@@ -2121,7 +2356,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 0
     },
     {
         "id": 237,
@@ -2130,7 +2366,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.002
     },
     {
         "id": 238,
@@ -2139,7 +2376,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.002
     },
     {
         "id": 239,
@@ -2148,7 +2386,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0
     },
     {
         "id": 240,
@@ -2157,7 +2396,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0
     },
     {
         "id": 241,
@@ -2166,7 +2406,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 0
     },
     {
         "id": 242,
@@ -2175,7 +2416,8 @@
         "methodNum": 7405,
         "flowRate": "2 - 4 L/min",
         "volMinMax": "30 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7405.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7405.pdf",
+        "pel": 0
     },
     {
         "id": 243,
@@ -2184,7 +2426,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 980
     },
     {
         "id": 244,
@@ -2193,7 +2436,8 @@
         "methodNum": 2027,
         "flowRate": "0.05 – 0.1 l/min",
         "volMinMax": "2 L - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2027.pdf",
+        "pel": 2400
     },
     {
         "id": 245,
@@ -2202,7 +2446,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 246,
@@ -2211,7 +2456,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 247,
@@ -2220,7 +2466,8 @@
         "methodNum": 9106,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9106.pdf",
+        "pel": 0
     },
     {
         "id": 248,
@@ -2229,7 +2476,8 @@
         "methodNum": 9109,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/9109.pdf",
+        "pel": 0
     },
     {
         "id": 249,
@@ -2238,7 +2486,8 @@
         "methodNum": 5008,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "20 - 400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5008.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5008.pdf",
+        "pel": 5
     },
     {
         "id": 250,
@@ -2247,7 +2496,8 @@
         "methodNum": 7603,
         "flowRate": "2 - 4 L/min",
         "volMinMax": "300 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7603.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7603.pdf",
+        "pel": 50
     },
     {
         "id": 251,
@@ -2256,7 +2506,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 252,
@@ -2265,7 +2516,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 15
     },
     {
         "id": 253,
@@ -2274,7 +2526,8 @@
         "methodNum": 5007,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "8 - 400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5007.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5007.pdf",
+        "pel": 5
     },
     {
         "id": 254,
@@ -2283,7 +2536,8 @@
         "methodNum": 8326,
         "flowRate": "",
         "volMinMax": "8 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf",
+        "pel": 0
     },
     {
         "id": 255,
@@ -2292,7 +2546,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.2
     },
     {
         "id": 256,
@@ -2301,7 +2556,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.2
     },
     {
         "id": 257,
@@ -2310,7 +2566,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 0.2
     },
     {
         "id": 258,
@@ -2319,7 +2576,8 @@
         "methodNum": 7602,
         "flowRate": "2 - 4 L/min",
         "volMinMax": "400 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7602.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7602.pdf",
+        "pel": 80
     },
     {
         "id": 259,
@@ -2328,7 +2586,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.01
     },
     {
         "id": 260,
@@ -2337,7 +2596,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.01
     },
     {
         "id": 261,
@@ -2346,7 +2606,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0
     },
     {
         "id": 262,
@@ -2355,7 +2616,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0
     },
     {
         "id": 263,
@@ -2364,7 +2626,8 @@
         "methodNum": 7405,
         "flowRate": "2 - 4 L/min",
         "volMinMax": "30 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7405.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7405.pdf",
+        "pel": 2
     },
     {
         "id": 264,
@@ -2373,7 +2636,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0
     },
     {
         "id": 265,
@@ -2382,7 +2646,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0
     },
     {
         "id": 266,
@@ -2391,7 +2656,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0
     },
     {
         "id": 267,
@@ -2400,7 +2666,8 @@
         "methodNum": 5016,
         "flowRate": "1 - 3 L/min",
         "volMinMax": "70 - 1000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5016.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5016.pdf",
+        "pel": 0.15
     },
     {
         "id": 268,
@@ -2409,7 +2676,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 430
     },
     {
         "id": 269,
@@ -2418,7 +2686,8 @@
         "methodNum": 6012,
         "flowRate": "0.05 - 0.1 L/min",
         "volMinMax": "1.3 - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf",
+        "pel": 0
     },
     {
         "id": 270,
@@ -2427,7 +2696,8 @@
         "methodNum": 6012,
         "flowRate": "0.05 - 0.1 L/min",
         "volMinMax": "1.3 - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf",
+        "pel": 20
     },
     {
         "id": 271,
@@ -2436,7 +2706,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 13
     },
     {
         "id": 272,
@@ -2445,7 +2716,8 @@
         "methodNum": 7908,
         "flowRate": "1 - 5 L/min",
         "volMinMax": "15 - 2000 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7908.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7908.pdf",
+        "pel": 1
     },
     {
         "id": 273,
@@ -2454,7 +2726,8 @@
         "methodNum": 6012,
         "flowRate": "0.05 - 0.1 L/min",
         "volMinMax": "1.3 - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf",
+        "pel": 0
     },
     {
         "id": 274,
@@ -2463,7 +2736,8 @@
         "methodNum": 6012,
         "flowRate": "0.05 - 0.1 L/min",
         "volMinMax": "1.3 - 10 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/6012.pdf",
+        "pel": 20
     },
     {
         "id": 275,
@@ -2472,7 +2746,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 276,
@@ -2481,7 +2756,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.1
     },
     {
         "id": 277,
@@ -2490,7 +2766,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.1
     },
     {
         "id": 278,
@@ -2499,7 +2776,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.1
     },
     {
         "id": 279,
@@ -2508,7 +2786,8 @@
         "methodNum": 5600,
         "flowRate": "0.2 - 1 L/min",
         "volMinMax": "12 - 480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5600.pdf",
+        "pel": 0
     },
     {
         "id": 280,
@@ -2517,7 +2796,8 @@
         "methodNum": 5504,
         "flowRate": "1 - 1.5 L/min",
         "volMinMax": "50 - 500 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf",
+        "pel": 0
     },
     {
         "id": 281,
@@ -2526,7 +2806,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 0
     },
     {
         "id": 282,
@@ -2535,7 +2816,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 590
     },
     {
         "id": 283,
@@ -2544,7 +2826,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.1
     },
     {
         "id": 284,
@@ -2553,7 +2836,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.1
     },
     {
         "id": 285,
@@ -2562,7 +2846,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.1
     },
     {
         "id": 286,
@@ -2571,7 +2856,8 @@
         "methodNum": 5601,
         "flowRate": "0.1 - 1 L/min",
         "volMinMax": "480 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5601.pdf",
+        "pel": 0
     },
     {
         "id": 287,
@@ -2580,7 +2866,8 @@
         "methodNum": 5005,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "10 - 400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5005.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5005.pdf",
+        "pel": 5
     },
     {
         "id": 288,
@@ -2589,7 +2876,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.1
     },
     {
         "id": 289,
@@ -2598,7 +2886,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.1
     },
     {
         "id": 290,
@@ -2607,7 +2896,8 @@
         "methodNum": 5504,
         "flowRate": "1 - 1.5 L/min",
         "volMinMax": "50 - 500 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf",
+        "pel": 0.1
     },
     {
         "id": 291,
@@ -2616,7 +2906,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 15
     },
     {
         "id": 292,
@@ -2625,7 +2916,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 15
     },
     {
         "id": 293,
@@ -2634,7 +2926,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 15
     },
     {
         "id": 294,
@@ -2643,7 +2936,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 750
     },
     {
         "id": 295,
@@ -2652,7 +2946,8 @@
         "methodNum": 8007,
         "flowRate": "",
         "volMinMax": "10 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8007.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8007.pdf",
+        "pel": 750
     },
     {
         "id": 296,
@@ -2661,7 +2956,8 @@
         "methodNum": 8321,
         "flowRate": "",
         "volMinMax": "50 - 100 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8321.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8321.pdf",
+        "pel": 750
     },
     {
         "id": 297,
@@ -2670,7 +2966,8 @@
         "methodNum": 8326,
         "flowRate": "",
         "volMinMax": "8 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8326.pdf",
+        "pel": 750
     },
     {
         "id": 298,
@@ -2679,7 +2976,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 750
     },
     {
         "id": 299,
@@ -2688,7 +2986,8 @@
         "methodNum": 7400,
         "flowRate": "0.5 - 16 L/min",
         "volMinMax": "400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/7400.pdf",
+        "pel": 0
     },
     {
         "id": 300,
@@ -2697,7 +2996,8 @@
         "methodNum": 5504,
         "flowRate": "1 - 1.5 L/min",
         "volMinMax": "50 - 500 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf",
+        "pel": 5
     },
     {
         "id": 301,
@@ -2706,7 +3006,8 @@
         "methodNum": 8322,
         "flowRate": "",
         "volMinMax": "10 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8322.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8322.pdf",
+        "pel": 0
     },
     {
         "id": 302,
@@ -2715,7 +3016,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 0
     },
     {
         "id": 303,
@@ -2724,7 +3026,8 @@
         "methodNum": 8322,
         "flowRate": "",
         "volMinMax": "10 mL",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8322.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8322.pdf",
+        "pel": 0
     },
     {
         "id": 304,
@@ -2733,7 +3036,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 240
     },
     {
         "id": 305,
@@ -2742,7 +3046,8 @@
         "methodNum": 5504,
         "flowRate": "1 - 1.5 L/min",
         "volMinMax": "50 - 500 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5504.pdf",
+        "pel": 0.1
     },
     {
         "id": 306,
@@ -2751,7 +3056,8 @@
         "methodNum": 5526,
         "flowRate": "0.25 - 1 L/min",
         "volMinMax": "15 - 75 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5526.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/5526.pdf",
+        "pel": 0
     },
     {
         "id": 307,
@@ -2760,7 +3066,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0
     },
     {
         "id": 308,
@@ -2769,7 +3076,8 @@
         "methodNum": 2536,
         "flowRate": "0.01 - 0.04 L/min",
         "volMinMax": "0.5 - 10L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2536.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/2536.pdf",
+        "pel": 0
     },
     {
         "id": 309,
@@ -2778,7 +3086,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 0.5
     },
     {
         "id": 310,
@@ -2787,7 +3096,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 0.5
     },
     {
         "id": 311,
@@ -2796,7 +3106,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 0.5
     },
     {
         "id": 312,
@@ -2805,7 +3116,8 @@
         "methodNum": 1453,
         "flowRate": "0.05 - 0.2 L/min",
         "volMinMax": "1.5 - 24 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/1453.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/1453.pdf",
+        "pel": 0
     },
     {
         "id": 313,
@@ -2814,7 +3126,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 0
     },
     {
         "id": 314,
@@ -2823,7 +3136,8 @@
         "methodNum": 7907,
         "flowRate": "2 L/min",
         "volMinMax": "30 - 600 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7907.pdf",
+        "pel": 0
     },
     {
         "id": 315,
@@ -2832,7 +3146,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 435
     },
     {
         "id": 316,
@@ -2841,7 +3156,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 435
     },
     {
         "id": 317,
@@ -2850,7 +3166,8 @@
         "methodNum": 3800,
         "flowRate": "0.1 L/min - 20 L/min",
         "volMinMax": "Instrument dependent",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/3800.pdf",
+        "pel": 435
     },
     {
         "id": 318,
@@ -2859,7 +3176,8 @@
         "methodNum": 3900,
         "flowRate": "0.06 - 50 mL/min",
         "volMinMax": "See SAMPLING section",
-        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/nmam/pdf/3900.pdf",
+        "pel": 435
     },
     {
         "id": 319,
@@ -2868,7 +3186,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 1
     },
     {
         "id": 320,
@@ -2877,7 +3196,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 1
     },
     {
         "id": 321,
@@ -2886,7 +3206,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 1
     },
     {
         "id": 322,
@@ -2895,7 +3216,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 5
     },
     {
         "id": 323,
@@ -2904,7 +3226,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 5
     },
     {
         "id": 324,
@@ -2913,7 +3236,8 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 5
     },
     {
         "id": 325,
@@ -2922,7 +3246,8 @@
         "methodNum": 8200,
         "flowRate": "",
         "volMinMax": "",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/8200.pdf",
+        "pel": 5
     },
     {
         "id": 326,
@@ -2931,7 +3256,8 @@
         "methodNum": 7502,
         "flowRate": "1 - 3 L/min",
         "volMinMax": "10 - 400 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7502.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7502.pdf",
+        "pel": 5
     },
     {
         "id": 327,
@@ -2940,7 +3266,8 @@
         "methodNum": 7302,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7302.pdf",
+        "pel": 5
     },
     {
         "id": 328,
@@ -2949,7 +3276,8 @@
         "methodNum": 7304,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "5 - 100 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7304.pdf",
+        "pel": 5
     },
     {
         "id": 329,
@@ -2958,6 +3286,7 @@
         "methodNum": 7306,
         "flowRate": "1 - 4 L/min",
         "volMinMax": "1 - 330 L",
-        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf"
+        "NIOSH": "https://www.cdc.gov/niosh/docs/2014-151/pdfs/methods/7306.pdf",
+        "pel": 5
     },
 ]

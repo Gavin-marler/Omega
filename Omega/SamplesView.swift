@@ -70,7 +70,7 @@ struct FinishSamplesView: View {
                 }
                 Section{
                     HStack {
-                        Text("Results From Lab (mg/m^3")
+                        Text("Results From Lab (mg/m^3)")
                         TextField("Results", value: $sample.lab, format: .number)
                         .keyboardType(.decimalPad)
                         .focused($isActive)
@@ -126,7 +126,7 @@ struct SamplesHistoryView: View {
                         VStack{
                             Text("Permissible Exposure Limit")
                                 .fontWeight(.bold)
-                            Text(sample.chemical.chemical)
+                            Text("\(sample.chemical.pel)")
                         }
                     }
                 }
